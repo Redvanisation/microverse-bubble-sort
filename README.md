@@ -9,4 +9,4 @@ Ruby
 
 * **Viho Serge** - [@VihoSerge](https://github.com/VihoSerge)
 
-* **Redvan** - [@VihoSerge](https://github.com/Redvanisation)
+* **Redvan** - [@Redvanisation](https://github.com/Redvanisation)
